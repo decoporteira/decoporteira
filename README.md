@@ -1,9 +1,9 @@
 ### Hi there 👋
 <a href="https://github.com/decoporteira/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=decoporteira&show_icons=true&theme=dracula" />
+  <img vertical-align= top align="center" src="https://github-readme-stats.vercel.app/api?username=decoporteira&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/decoporteira/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=decoporteira&show_icons=true&theme=dracula" />
+  <img vertical-align="top"   align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=decoporteira&show_icons=true&theme=dracula" />
 </a>
 
 <!--
